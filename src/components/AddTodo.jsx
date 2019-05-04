@@ -3,7 +3,7 @@ class AddTodo extends Component {
   render () {
     return (
       <div className='addTodoMain'>
-        <div className='panel panel-default col-md-4'>
+        <div className='panel panel-default col-md-4 display-container' >
           <h5 className='panel-heading'>Add New Todo</h5>
           <p className='panel-title'>I want to ...</p>
           <div className='panel-body'>
@@ -29,7 +29,7 @@ class AddTodo extends Component {
               <option value='2'>Med</option>
               <option value='3'>High</option>
             </select>
-            <div className='panel-footer'>
+            <div>
               <button
                 id='add'
                 type='button'

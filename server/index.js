@@ -1,5 +1,5 @@
 /* eslint no-console: "off" */
-/* index.js is where the app is rendered*/
+/*  is where the app is rendered*/
 const server = require('./server');
 
 const PORT = process.env.PORT || 3000;
