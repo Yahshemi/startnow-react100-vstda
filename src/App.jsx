@@ -101,8 +101,12 @@ class App extends React.Component {
             <h1>Not So Simple Todo App </h1>
             <h5>Track all of the things</h5>
             <div>
-        <img className="clipboard-img" src={'https://image.flaticon.com/icons/svg/1695/1695141.svg'} alt="clipboard-img" />
-        </div>
+              <img
+                className="clipboard-img"
+                src={"https://image.flaticon.com/icons/svg/1695/1695141.svg"}
+                alt="clipboard-img"
+              />
+            </div>
             <hr />
           </div>
           {/* This calls the child component AddTodo and says, when the text changes, run handleText. */}
