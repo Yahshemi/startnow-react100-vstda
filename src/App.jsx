@@ -99,7 +99,7 @@ class App extends React.Component {
         <div className="container">
           <div className="title-div">
             <h1>Not So Simple Todo App </h1>
-            <h5>Track all of the things</h5>
+            <h5>Track all things</h5>
             <div>
               <i className="bi bi-card-checklist" alt="clipboard"></i>
             </div>
