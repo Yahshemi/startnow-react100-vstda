@@ -5,18 +5,18 @@ This is a todo app using React that allows users to enter their todo items and p
 ## Installation
 
 ```bash
-clone the project
+- clone the project
 
-npm install
+- npm install
 
-npm run build
+- npm run build
 
-npm run start
+- npm run start
 ```
 
-## Special Thanks
+<!-- ## Special Thanks
 
-Thanks to all the awesome people at [Flat Icon](https://www.flaticon.com/), and [Color Hunt](https://colorhunt.co/). Because of them, I can create stylish projects.
+Thanks to all the awesome people at [Flat Icon](https://www.flaticon.com/), and [Color Hunt](https://colorhunt.co/). Because of them, I can create stylish projects. -->
 
 ## Check Me Out
 

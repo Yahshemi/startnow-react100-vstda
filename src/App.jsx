@@ -101,11 +101,7 @@ class App extends React.Component {
             <h1>Not So Simple Todo App </h1>
             <h5>Track all of the things</h5>
             <div>
-              <img
-                className="clipboard-img"
-                src={"https://image.flaticon.com/icons/svg/1695/1695141.svg"}
-                alt="clipboard-img"
-              />
+              <i className="bi bi-card-checklist" alt="clipboard"></i>
             </div>
             <hr />
           </div>
@@ -126,7 +122,7 @@ class App extends React.Component {
           />
           {/* <TodoItem saveAndClose={this.saveAndClose} /> */}
         </div>
-        <div className="credits">
+        {/* <div className="credits">
           Icons made by{" "}
           <a href="https://www.freepik.com/" title="Freepik">
             Freepik
@@ -143,7 +139,7 @@ class App extends React.Component {
           >
             CC 3.0 BY
           </a>
-        </div>
+        </div> */}
       </div>
     );
   }
