@@ -20,4 +20,4 @@ Thanks to all the awesome people at [Flat Icon](https://www.flaticon.com/), and 
 
 ## Check Me Out
 
-[CLICK HERE](https://yw-react-vstda.herokuapp.com/)
+[CLICK HERE](https://yw-vstda.herokuapp.com/)
