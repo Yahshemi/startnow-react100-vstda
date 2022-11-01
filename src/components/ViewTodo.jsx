@@ -1,13 +1,14 @@
-import React, { Component } from "react";
-import TodoItems from "./TodoItems";
+import React, { Component } from 'react'
+import TodoItems from './TodoItems'
+
 class ViewTodo extends Component {
-  constructor(props) {
-    super(props);
+  constructor (props) {
+    super(props)
   }
 
-  render() {
+  render () {
     return (
-      <div className="viewTodoMain">
+      <div id='view-todo' className="viewTodoMain">
         <div className="panel panel-default col-md-8 display-container">
           <h5 className="panel-heading">View Todos</h5>
           <div>
@@ -21,8 +22,7 @@ class ViewTodo extends Component {
           <div className="container"> </div>
         </div>
       </div>
-
-);
+    )
+  }
 }
-}
-export default ViewTodo;
+export default ViewTodo

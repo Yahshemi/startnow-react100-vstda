@@ -1,12 +1,11 @@
-## Very Simple ToDo App (VSTDA)
-===============================
+# Very Simple ToDo App (VSTDA)
 
-###### Getting Started
-=================
+## Getting Started
+
+********************************
+
  A Todo app using React that allows users to enter their todo items and prioritize them based on their importance.
 
+### Next Step
 
-###### Next Step
-===
 Make better readme
-
